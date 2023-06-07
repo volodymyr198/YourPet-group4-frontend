@@ -2,7 +2,7 @@
   "name": "yourpet-group4-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://iankafil.github.io/YourPet-group4-frontend/",
+  "homepage": "https://volodymyr198.github.io/YourPet-group4-frontend/",
   "dependencies": {
     "@fontsource/roboto": "^4.5.8",
     "@mui/x-date-pickers": "^6.3.1",
